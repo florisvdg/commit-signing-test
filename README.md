@@ -8,3 +8,4 @@
 - ❌ GitUp
 - ❌ GitKraken
 - ❌ Nova
+- ✅ VS Code
