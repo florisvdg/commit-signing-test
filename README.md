@@ -7,3 +7,4 @@
 - ✅ GitHub Desktop
 - ❌ GitUp
 - ❌ GitKraken
+- ❌ Nova
