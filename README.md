@@ -11,3 +11,4 @@
 - ✅ VS Code
 - ✅ Sourcetree
 - ✅ JetBrains IDEs
+- ✅ Sublime Merge
