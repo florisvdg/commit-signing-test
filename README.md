@@ -6,3 +6,4 @@
 - ✅ Fork
 - ✅ GitHub Desktop
 - ❌ GitUp
+- ❌ GitKraken
