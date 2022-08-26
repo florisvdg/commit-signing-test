@@ -9,3 +9,4 @@
 - ❌ GitKraken
 - ❌ Nova
 - ✅ VS Code
+- ✅ Sourcetree
