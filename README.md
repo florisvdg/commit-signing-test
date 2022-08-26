@@ -3,3 +3,4 @@
 ## macOS
 
 - ✅ Tower
+- ✅ Fork
