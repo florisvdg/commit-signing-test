@@ -10,3 +10,4 @@
 - ❌ Nova
 - ✅ VS Code
 - ✅ Sourcetree
+- ✅ JetBrains IDEs
