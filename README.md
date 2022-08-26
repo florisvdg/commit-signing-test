@@ -5,3 +5,4 @@
 - ✅ Tower
 - ✅ Fork
 - ✅ GitHub Desktop
+- ❌ GitUp
