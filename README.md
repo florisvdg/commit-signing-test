@@ -19,3 +19,4 @@
 - ✅ Sourcetree
 - ✅ VS Code
 - ❌ GitKraken
+- ✅ JetBrains IDEs
