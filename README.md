@@ -27,3 +27,4 @@
 ## Linux
 
 - ✅ VS Code
+- ✅ Sublime Merge
