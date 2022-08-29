@@ -12,3 +12,7 @@
 - ✅ Sourcetree
 - ✅ JetBrains IDEs
 - ✅ Sublime Merge
+
+## Windows
+
+- ✅ Tower
