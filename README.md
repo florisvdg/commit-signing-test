@@ -23,3 +23,7 @@
 - ✅ Sublime Merge
 - ✅ GitHub Desktop
 - ✅ Fork
+
+## Linux
+
+- ✅ VS Code
