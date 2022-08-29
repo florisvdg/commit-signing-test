@@ -20,3 +20,4 @@
 - ✅ VS Code
 - ❌ GitKraken
 - ✅ JetBrains IDEs
+- ✅ Sublime Merge
