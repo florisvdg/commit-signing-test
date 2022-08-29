@@ -18,3 +18,4 @@
 - ✅ Tower
 - ✅ Sourcetree
 - ✅ VS Code
+- ❌ GitKraken
