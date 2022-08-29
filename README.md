@@ -21,3 +21,4 @@
 - ❌ GitKraken
 - ✅ JetBrains IDEs
 - ✅ Sublime Merge
+- ✅ GitHub Desktop
