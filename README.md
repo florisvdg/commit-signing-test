@@ -22,3 +22,4 @@
 - ✅ JetBrains IDEs
 - ✅ Sublime Merge
 - ✅ GitHub Desktop
+- ✅ Fork
