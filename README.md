@@ -29,3 +29,7 @@
 - ✅ VS Code
 - ✅ Sublime Merge
 - ✅ JetBrains IDEs
+
+## Cloud IDEs
+
+- ✅ Gitpod
